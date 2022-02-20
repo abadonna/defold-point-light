@@ -1,0 +1,7 @@
+mesh: "/assets/torus.dae"
+material: "/materials/unlit.material"
+textures: "/assets/images/brown.png"
+skeleton: ""
+animations: ""
+default_animation: ""
+name: "unnamed"

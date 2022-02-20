@@ -1,0 +1,3 @@
+function init(self)
+	msg.post("@render:", "set_light_position", { pos = go.get_world_position() })
+end

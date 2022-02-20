@@ -1,0 +1,5 @@
+script: "/main/main.render_script"
+materials {
+  name: "depth"
+  material: "/materials/depth.material"
+}
